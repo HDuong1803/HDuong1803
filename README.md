@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**HDuong1803/HDuong1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my Git profile 👋
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+      
+
+       visitors
+      
