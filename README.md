@@ -1,4 +1,4 @@
-### Welcome to my Git profile 👋
+### Welcome to my Git profile 👋                                                                            ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 Here are some ideas to get you started:
 
@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- ![visitors](https://hduong183.github.io/visitor/)
