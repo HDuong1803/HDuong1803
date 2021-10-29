@@ -82,10 +82,9 @@
   <img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDuong1803&layout=compact" />
 </a>
 
-</br></br></br></br>
+</br></br></br></br></br><br>
 
 ---
-</br><br>
 
 <p align="center">
   <h3>Coder with ❤️ in VietNam 🇻🇳</h3>
