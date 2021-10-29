@@ -76,13 +76,13 @@
 ---
   
 <a>
-  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=HDuong1803&show_icons=true&theme=radical"/>
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=HDuong1803&show_icons=true&theme=radical"/>
 </a>
 <a>
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDuong1803&layout=compact" />
+  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDuong1803&layout=compact" />
 </a>
 
-</br></br></br></br>
+</br></br></br></br></br></br>
 <hr>
 <p align="center">
 Coder with ❤️ in VietNam 🇻🇳
