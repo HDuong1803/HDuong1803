@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 ![Duong GitHub stats](https://github-readme-stats.vercel.app/api?username=HDuong1803&show_icons=true&theme=radical)
 
 
-[![Duong GitHub stats](https://github-readme-stats.vercel.app/api?username=HDuong1803)](https://github.com/anuraghazra/github-readme-stats)
+[! [Thẻ Readme] (https://github-readme-stats.vercel.app/api/pin/ ? Username = HDuong1803 & repo = github-readme-stats )] (https://github.com/anuraghazra/github- readme-stats)
