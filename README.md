@@ -86,6 +86,6 @@
 
 ---
 
-<p align="center">
+<a align="center">
   <h3>Coder with ❤️ in VietNam 🇻🇳</h3>
-</p>
+</a>
