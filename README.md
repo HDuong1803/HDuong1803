@@ -24,7 +24,7 @@
 
 ----
 
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -76,16 +76,16 @@
 ---
   
 <a>
-  <img align="left" width="380" height="280" src="https://github-readme-stats.vercel.app/api?username=HDuong1803&show_icons=true&theme=radical"/>
+  <img align="left" width="380" src="https://github-readme-stats.vercel.app/api?username=HDuong1803&show_icons=true&theme=radical"/>
 </a>
 <a>
-  <img align="right" width="380" height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDuong1803&layout=compact" />
+  <img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDuong1803&layout=compact" />
 </a>
 
-</br></br></br></br></br></br>
+</br></br></br></br>
 
 ---
 
 <p align="center">
-  <h4>Coder with ❤️ in VietNam 🇻🇳</h4>
+  <h3>Coder with ❤️ in VietNam 🇻🇳</h3>
 </p>
