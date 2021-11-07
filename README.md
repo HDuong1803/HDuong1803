@@ -68,8 +68,7 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/> 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
-<img align="left" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40"/> 
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </br>
   </br>
   
