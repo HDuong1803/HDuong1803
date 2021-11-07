@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/github/forks/HDuong1803/HDuong1803?style=flat-square"/>
   </a>
   <a target="blank">
-    <img src="https://img.shields.io/github/stars/HDuong1803/HDuong1803?style=flat-square"/>
+    <img src="https://img.shields.io/github/stars/HDuong1803?style=flat-square"/>
   </a>
   <a target="blank">
     <img src="https://img.shields.io/github/issues/HDuong1803/HDuong1803?style=flat-square"/>
@@ -69,6 +69,7 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/> 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  
   </br>
   </br>
   
