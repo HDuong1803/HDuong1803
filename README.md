@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square"/>
   </a>
   <a target="blank">
-    <img src="https://img.shields.io/github/forks/HDuong1803/HDuong1803?style=flat-square"/>
+    <img src="https://img.shields.io/github/forks/HDuong1803/LearnCode?style=flat-square"/>
   </a>
   <a target="blank">
     <img src="https://img.shields.io/github/stars/HDuong1803?style=flat-square"/>
