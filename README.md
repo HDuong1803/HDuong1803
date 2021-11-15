@@ -79,7 +79,7 @@
   <img align="left" width="380" src="https://github-readme-stats.vercel.app/api?username=HDuong1803&show_icons=true&theme=radical"/>
 </a>
 <a>
-  <img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDuong1803&layout=compact" />
+  <img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDuong1803&layout=compact" />
 </a>
 
 </br></br></br></br></br><br></br>
