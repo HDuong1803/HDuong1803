@@ -154,7 +154,8 @@
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>
-<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
+	
+<img src="https://github.com/HDuong1803/HDuong1803/blob/master/github-contribution-grid-snake.svg">
 </p>
 
 <hr>
