@@ -110,12 +110,12 @@
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=HDuong1803&theme=tokyonight&row=2&column=4">
+<img src="https://github-profile-trophy.vercel.app/?username=HDuong1803&theme=juicyfresh&row=2&column=4">
 </p>
 
 ## <p align="center">Top langs :tongue:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDuong1803&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDuong1803&langs_count=10&theme=tokyonight&layout=compact" alt="HDuong1803 :: Top Langs" /></p>
 
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
