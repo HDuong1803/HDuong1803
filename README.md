@@ -6,6 +6,27 @@
 
 ---
 
+```Java
+package HD
+{
+   public class HDuong1803
+    {
+        public static void main(String[]args)
+        {
+            string Name = "Do Hai Duong";
+            string Age = "2003";
+            string Gender = "Male";
+            string Address = "Hung Yen, Viet Nam";
+            string University = "Hanoi University of Mining and Geology - HUMG";
+            string Skills = "C, C++, HTML, CSS, JavaScript, Java, MySQL";
+            string FamousQuotes = "A winner never stops trying!";
+        }
+    }
+}
+```
+
+---
+
 ## <p align="center">🔗 Connect with me</p>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100027635901109" target="blank">
@@ -79,10 +100,10 @@
         <img height="64px" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg">
 		</a>
       </td>
-      <td width="20%" align="center">
-		<a href="https://code.visualstudio.com/docs">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+      <td width="25%" align="center">
+		<a href="https://dev.mysql.com/doc/">
+        <span>𝗠𝘆𝗦𝗤𝗟</span><br><br><br>
+        <img height="100px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 		</a>
       </td>
 	    <td width="20%" align="center">
