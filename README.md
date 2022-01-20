@@ -140,7 +140,12 @@ package HD
 
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=HDuong1803&show_icons=true&theme=tokyonight" alt="HDuong1803 :: Profile Stats" /></p>
+<p align="center">
+  <a href="https://abhigyantrips.dev/">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=HDuong1803&show_icons=true&theme=onedark&hide_border=true" />
+    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=HDuong1803&theme=onedark&hide_border=true" />
+  </a>
+</p>
 
 ## <p align="center">Repository pin 📌</p>
 
