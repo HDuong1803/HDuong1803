@@ -2,7 +2,7 @@
   𝓓𝓸 𝓗𝓪𝓲 𝓓𝓾𝓸𝓷𝓰  
 </h1>
 
-<p align="center"><img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w" height="260" width="500"></p>
+<p align="center"><img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w" height="300" width="500"></p>
 
 ---
 
