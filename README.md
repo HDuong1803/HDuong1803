@@ -13,13 +13,13 @@ package HD
     {
         public static void main(String[]args)
         {
-            string Name = "Do Hai Duong";
-            string Age = "2003";
-            string Gender = "Male";
-            string Address = "Hung Yen, Viet Nam";
-            string University = "Hanoi University of Mining and Geology - HUMG";
-            string Skills = "C, C++, HTML, CSS, JavaScript, Java, MySQL";
-            string FamousQuotes = "A winner never stops trying!";
+            String Name = "Do Hai Duong";
+            String Age = "2003";
+            String Gender = "Male";
+            String Address = "Hung Yen, Viet Nam";
+            String University = "Hanoi University of Mining and Geology - HUMG";
+            String Skills = "C, C++, HTML, CSS, JavaScript, Java, MySQL";
+            String FamousQuotes = "A winner never stops trying!";
         }
     }
 }
