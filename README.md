@@ -130,9 +130,7 @@ package HD
 
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
-<p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=HDuong1803&theme=juicyfresh&row=2&column=4">
-</p>
+
 
 ## <p align="center">Top langs :tongue:</p>
 
