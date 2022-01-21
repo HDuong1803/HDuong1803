@@ -142,8 +142,8 @@ package HD
 
 <p align="center">
   <a href="https://abhigyantrips.dev/">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=HDuong1803&show_icons=true&theme=onedark&hide_border=true" />
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=HDuong1803&theme=onedark&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=HDuong1803&show_icons=true&theme=onedark&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=HDuong1803&theme=onedark&hide_border=true" />
   </a>
 </p>
 
