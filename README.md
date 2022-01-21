@@ -51,7 +51,6 @@ package HD
   
   ---
 	
-  <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 	
 ## <p align="center">🛠️ Languages and Tools</p>
 
