@@ -101,7 +101,7 @@ package HD
         <img height="64px" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg">
 		</a>
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
 		<a href="https://dev.mysql.com/doc/">
         <span>𝗠𝘆𝗦𝗤𝗟</span><br><br><br>
         <img height="100px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
@@ -143,8 +143,8 @@ package HD
 
 <p align="center">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=HDuong1803&show_icons=true&theme=onedark&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=HDuong1803&theme=onedark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HDuong1803&show_icons=true&theme=onedark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HDuong1803&theme=onedark&hide_border=true" />
   </a>
 </p>
 
