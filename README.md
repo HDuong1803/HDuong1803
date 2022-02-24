@@ -27,26 +27,26 @@ package HD
 
 ---
 
-## <p align="center">🔗 Connect with me</p>
+## <p align="center"👽 Connect with me 👽</p>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100027635901109" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" />
   </a>
   
   <a href="https://www.linkedin.com/in/hai-duong-57447b21b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" />
   </a>
   
   <a href="https://dev.to/hduong1803" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="30" width="40"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="100" width="81"/>
   </a>
   
   <a href="https://twitter.com/HiDng12837810" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/bubbles/100/000000/twitter.png" />
   </a>
   
   <a href="https://www.instagram.com/_hduonggg_183_/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/bubbles/100/000000/instagram.png" />
   </a>
   
   ---
