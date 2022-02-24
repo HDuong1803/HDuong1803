@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> <img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px">
   𝓓𝓸 𝓗𝓪𝓲 𝓓𝓾𝓸𝓷𝓰  
 </h1>
 
@@ -52,7 +52,7 @@ package HD
   ---
 	
 	
-## <p align="center">🛠️ Languages and Tools</p>
+## <p align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="60px" /> Languages and Tools</p> 
 
 <table align="center">
   <tbody>
@@ -139,7 +139,7 @@ package HD
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDuong1803&langs_count=10&theme=tokyonight&layout=compact" alt="HDuong1803 :: Top Langs" /></p>
 
-## <p align="center">Profile stats :musical_keyboard:</p>
+## <p align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> Profile stats :musical_keyboard:</p>
 
 <p align="center">
   <a href="https://abhigyantrips.dev/">
@@ -148,7 +148,7 @@ package HD
   </a>
 </p>
 
-## <p align="center">Repository pin 📌</p>
+## <p align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> Repository pin 📌</p>
 
 <p align="center">	
 <a href="https://github.com/HDuong1803/ChatBot">
