@@ -41,7 +41,7 @@ package HD
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="100" width="81"/>
   </a>
   
-  <a href="https://twitter.com/HiDng12837810" target="blank">
+  <a href="https://twitter.com/haiduongdev" target="blank">
     <img align="center" src="https://img.icons8.com/bubbles/100/000000/twitter.png" />
   </a>
   
