@@ -155,8 +155,8 @@ package HD
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=ChatBot&theme=tokyonight" alt="HDuong1803" />
 </a>
 	
-<a href="https://github.com/HDuong1803/LearnCode">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=LearnCode&theme=tokyonight" alt="HDUong1803" />
+<a href="https://github.com/HDuong1803/DataStructs">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=DataStructs&theme=tokyonight" alt="HDUong1803" />
 </a>
 </p>
 
