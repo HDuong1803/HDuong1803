@@ -110,7 +110,7 @@ package HD
 	    <td width="20%" align="center">
 	<a href="https://wiki.archlinux.org/">
 		<span>𝗟𝗶𝗻𝘂𝘅</span><br><br><br>
-		<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg">
+		<img height="64px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
 	</a>
       </td>
       <td width="20%" align="center">
