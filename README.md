@@ -18,7 +18,7 @@ package HD
             String Gender = "Male";
             String Address = "Hung Yen, Viet Nam";
             String University = "Hanoi University of Mining and Geology - HUMG";
-            String Skills = "C, C++, HTML, CSS, JavaScript, Java, MySQL";
+            String Skills = " HTML, CSS, JavaScript, MySQL";
             String FamousQuotes = "A winner never stops trying!";
         }
     }
@@ -57,63 +57,63 @@ package HD
 <table align="center">
   <tbody>
     <tr valign="top">
-      <td width="20%" align="center">
-        <a href="https://devdocs.io/c/">
-		      <span>𝗖</span><br><br><br>
-		      <img height="72px" src="https://img.icons8.com/color/144/000000/c-programming.png">
+      <td width="19.5%" align="center">
+        <a href="https://devdocs.io/html/">
+		      <span>𝗛𝗧𝗠𝗟</span><br><br><br>
+		      <img height="72px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 	      </a>
       </td>
-      <td width="20%" align="center">
-	<a href="https://devdocs.io/cpp/">
-		<span>𝗖++</span><br><br><br>
-		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
+      <td width="19.5%" align="center">
+	<a href="https://devdocs.io/css/">
+		<span>𝗖𝗦𝗦</span><br><br><br>
+		<img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 	 </a>
       </td>
-      <td width="20%" align="center">
-	<a href="https://devdocs.io/html/">
-		<span>𝗛𝗧𝗠𝗟</span><br><br><br>
-		<img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+      <td width="19.5%" align="center">
+	<a href="https://devdocs.io/javascript/">
+		<span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+		<img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 	 </a>
       </td>
-	<td width="20%" align="center">
-		<a href="https://devdocs.io/css/">
-        <span>𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+	<td width="19.5%" align="center">
+		<a href="https://docs.soliditylang.org/en/v0.8.12/">
+        <span>𝗦𝗼𝗹𝗶𝗱𝗶𝘁𝘆</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/ios-filled/50/000000/solidity.png">
 		</a>
       </td>
-      <td width="20%" align="center">
-	      <a href="https://devdocs.io/javascript/">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <td width="19.5%" align="center">
+	      <a href="https://nodejs.org/en/docs/">
+        <span>𝗡𝗼𝗱𝗲𝗝𝗦</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
 	      </a>
       </td>
     </tr>
     <tr valign="top">
-	<td width="20%" align="center">
-		<a href="https://docs.oracle.com/java/">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+	<td width="19.5%" align="center">
+		<a href="https://docs.mongodb.com/">
+        <span>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
 		</a>
       </td>
 	<td width="20%" align="center">
-		<a href="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg">
-        <span>𝗡𝗲𝗼𝗩𝗶𝗺</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg">
-		</a>
-      </td>
-      <td width="20%" align="center">
-		<a href="https://dev.mysql.com/doc/">
+	<a href="https://dev.mysql.com/doc/">
         <span>𝗠𝘆𝗦𝗤𝗟</span><br><br><br>
         <img height="100px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 		</a>
       </td>
-	    <td width="20%" align="center">
+      <td width="19.5%" align="center">
+		<a href="https://www.lunarvim.org/#opinionated">
+        <span>𝗡𝗲𝗼𝗩𝗶𝗺</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg">
+		</a>
+      </td>
+	    <td width="19.5%" align="center">
 	<a href="https://wiki.archlinux.org/">
 		<span>𝗟𝗶𝗻𝘂𝘅</span><br><br><br>
 		<img height="64px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
 	</a>
       </td>
-      <td width="20%" align="center">
+      <td width="19.5%" align="center">
 	      <a href="https://git-scm.com/doc">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
