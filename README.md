@@ -151,8 +151,8 @@ package HD
 ## <p align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> Repository pin 📌</p>
 
 <p align="center">	
-<a href="https://github.com/HDuong1803/ChatBot">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=ChatBot&theme=tokyonight" alt="HDuong1803" />
+<a href="https://github.com/HDuong1803/Social-Network">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=Social-Network&theme=tokyonight" alt="HDuong1803" />
 </a>
 	
 <a href="https://github.com/HDuong1803/DataStructs">
