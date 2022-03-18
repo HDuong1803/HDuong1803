@@ -76,15 +76,15 @@ package HD
 	 </a>
       </td>
 	<td width="19.5%" align="center">
-		<a href="https://docs.soliditylang.org/en/v0.8.12/">
-        <span>𝗦𝗼𝗹𝗶𝗱𝗶𝘁𝘆</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/ios-filled/50/000000/solidity.png">
+		<a href="https://docs.oracle.com/en/java/">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
 		</a>
       </td>
       <td width="19.5%" align="center">
-	      <a href="https://nodejs.org/en/docs/">
-        <span>𝗡𝗼𝗱𝗲𝗝𝗦</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+	      <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">
+        <span>𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁</span><br><br><br>
+        <img height="64px" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">
 	      </a>
       </td>
     </tr>
