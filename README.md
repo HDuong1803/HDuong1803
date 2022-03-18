@@ -170,6 +170,16 @@ package HD
 </a>
 </p>
 
+<p align="center">	
+<a href="https://github.com/HDuong1803/E-commerce-API">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=E-commerce-API&theme=tokyonight" alt="HDuong1803" />
+</a>
+	
+<a href="https://github.com/HDuong1803/LearnCode">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=LearnCode&theme=tokyonight" alt="HDUong1803" />
+</a>
+</p>
+
 ## <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
