@@ -6,27 +6,6 @@
 
 ---
 
-```Java
-package HD
-{
-   public class HDuong1803
-    {
-        public static void main(String[]args)
-        {
-            String Name = "Do Hai Duong";
-            String Age = "2003";
-            String Gender = "Male";
-            String Address = "Hung Yen, Viet Nam";
-            String University = "Hanoi University of Mining and Geology - HUMG";
-            String Skills = " HTML, CSS, JavaScript, MySQL";
-            String FamousQuotes = "A winner never stops trying!";
-        }
-    }
-}
-```
-
----
-
 ## <p align="center"> 👽 Connect with me 👽</p>
 <p align="center">
   <a href="https://www.facebook.com/haiduongdev/" target="blank">
