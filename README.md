@@ -55,29 +55,29 @@
 	 </a>
       </td>
 	<td width="19.5%" align="center">
-		<a href="https://docs.oracle.com/en/java/">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
+		<a href="https://reactjs.org/docs/getting-started.html">
+        <span>𝗥𝗲𝗮𝗰𝘁</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/office/160/000000/react.png">
 		</a>
       </td>
       <td width="19.5%" align="center">
-	      <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">
-        <span>𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁</span><br><br><br>
-        <img height="64px" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">
+	      <a href="https://docs.soliditylang.org/en/v0.8.13/">
+        <span>𝗦𝗼𝗹𝗶𝗱𝗶𝘁𝘆</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/ios-filled/50/000000/solidity.png">
 	      </a>
       </td>
     </tr>
     <tr valign="top">
 	<td width="19.5%" align="center">
-		<a href="https://docs.mongodb.com/">
-        <span>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+		<a href="https://nodejs.org/en/docs/">
+        <span>𝗡𝗼𝗱𝗲𝗝𝘀</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-shadow-tal-revivo.png">
 		</a>
       </td>
-	<td width="20%" align="center">
-	<a href="https://dev.mysql.com/doc/">
-        <span>𝗠𝘆𝗦𝗤𝗟</span><br><br><br>
-        <img height="100px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+	<td width="19.5%" align="center">
+	<a href="https://docs.mongodb.com/">
+        <span>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
 		</a>
       </td>
       <td width="19.5%" align="center">
