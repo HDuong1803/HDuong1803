@@ -21,7 +21,7 @@
   </a>
   
   <a href="https://twitter.com/haiduongdev" target="blank">
-    <img align="center" src="https://img.icons8.com/bubbles/100/000000/twitter.png" />
+    <img align="center" src="https://img.icons8.com/bubbles/100/null/twitter-squared.png"/>
   </a>
   
   <a href="https://www.instagram.com/_hduonggg_183_/" target="blank">
