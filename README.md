@@ -70,8 +70,8 @@
     <tr valign="top">
 	<td width="19.5%" align="center">
 		<a href="https://nodejs.org/en/docs/">
-        <span>𝗡𝗼𝗱𝗲𝗝𝘀</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-shadow-tal-revivo.png">
+        <span>𝐑𝐮𝐬𝐭</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png">
 		</a>
       </td>
 	<td width="19.5%" align="center">
