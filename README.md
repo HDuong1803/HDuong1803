@@ -2,7 +2,9 @@
   𝓓𝓸 𝓗𝓪𝓲 𝓓𝓾𝓸𝓷𝓰  
 </h1>
 
-<p align="center"><img src="https://github.com/HDuong1803/HDuong1803/blob/main/ezgif-2-36fbc60872.gif" height="300" width="500"></p>
+<div align="center"> 
+<img height="400em"src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt"hello world"> <br>
+</div>
 
 ---
 
