@@ -25,10 +25,7 @@
   <a href="https://twitter.com/haiduongdev" target="blank">
     <img align="center" src="https://img.icons8.com/bubbles/100/null/twitter-squared.png"/>
   </a>
-  
-  <a href="https://www.instagram.com/_hduonggg_183_/" target="blank">
-    <img align="center" src="https://img.icons8.com/bubbles/100/000000/instagram.png" />
-  </a>
+ 
   
   ---
 	
@@ -39,66 +36,66 @@
   <tbody>
     <tr valign="top">
       <td width="19.5%" align="center">
-        <a href="https://devdocs.io/html/">
-		      <span>𝗛𝗧𝗠𝗟</span><br><br><br>
-		      <img height="72px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-	      </a>
-      </td>
-      <td width="19.5%" align="center">
-	<a href="https://devdocs.io/css/">
-		<span>𝗖𝗦𝗦</span><br><br><br>
-		<img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+        <a>
+		<span>𝗛𝗧𝗠𝗟</span><br><br><br>
+	        <img height="72px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 	 </a>
       </td>
       <td width="19.5%" align="center">
-	<a href="https://devdocs.io/javascript/">
+	<a>
+		<span>𝗖𝗦𝗦</span><br><br><br>
+		<img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+      	</a>
+      </td>
+      <td width="19.5%" align="center">
+	<a>
 		<span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
 		<img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 	 </a>
       </td>
 	<td width="19.5%" align="center">
-		<a href="https://reactjs.org/docs/getting-started.html">
+	<a>
         <span>𝗥𝗲𝗮𝗰𝘁</span><br><br><br>
         <img height="64px" src="https://img.icons8.com/office/160/000000/react.png">
-		</a>
+	</a>
       </td>
       <td width="19.5%" align="center">
-	      <a href="https://docs.soliditylang.org/en/v0.8.13/">
+	<a>
         <span>𝗦𝗼𝗹𝗶𝗱𝗶𝘁𝘆</span><br><br><br>
         <img height="64px" src="https://img.icons8.com/ios-filled/50/000000/solidity.png">
-	      </a>
+	</a>
       </td>
     </tr>
     <tr valign="top">
 	<td width="19.5%" align="center">
-		<a href="https://nodejs.org/en/docs/">
-        <span>𝐑𝐮𝐬𝐭</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png">
-		</a>
+	<a>
+        <span>𝗛𝗮𝗿𝗱𝗵𝗮𝘁</span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png">
+	</a>
       </td>
 	<td width="19.5%" align="center">
-	<a href="https://docs.mongodb.com/">
-        <span>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
-		</a>
+	<a>
+        <span>𝗠𝘆𝗦𝗤𝗟</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+	</a>
       </td>
       <td width="19.5%" align="center">
-		<a href="https://www.lunarvim.org/#opinionated">
+	<a>
         <span>𝗡𝗲𝗼𝗩𝗶𝗺</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg">
-		</a>
+	</a>
       </td>
-	    <td width="19.5%" align="center">
-	<a href="https://wiki.archlinux.org/">
+	<td width="19.5%" align="center">
+	<a>
 		<span>𝗟𝗶𝗻𝘂𝘅</span><br><br><br>
 		<img height="64px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
 	</a>
       </td>
       <td width="19.5%" align="center">
-	      <a href="https://git-scm.com/doc">
+	 <a>
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-	      </a>
+	 </a>
       </td>
     </tr>
   </tbody>
