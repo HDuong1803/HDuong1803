@@ -126,43 +126,6 @@
   </a>
 </p>
 
-## <p align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> Repository pin 📌</p>
-
-<p align="center">	
-<a href="https://github.com/HDuong1803/Social-Network">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=Social-Network&theme=tokyonight" alt="HDuong1803" />
-</a>
-	
-<a href="https://github.com/HDuong1803/DataStructs">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=DataStructs&theme=tokyonight" alt="HDUong1803" />
-</a>
-</p>
-
-<p align="center">	
-<a href="https://github.com/HDuong1803/Library_Aplication" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=Library_Aplication&theme=tokyonight" alt="HDuong1803" />
-</a>
-	
-<a href="https://github.com/HDuong1803/LunarVim-config">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=LunarVim-config&theme=tokyonight" alt="HDuong1803" />
-</a>
-</p>
-
-<p align="center">	
-<a href="https://github.com/HDuong1803/E-commerce-API">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=E-commerce-API&theme=tokyonight" alt="HDuong1803" />
-</a>
-	
-<a href="https://github.com/HDuong1803/LearnCode">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=LearnCode&theme=tokyonight" alt="HDUong1803" />
-</a>
-</p>
-
-## <p align="center">Github Contributions 📈</p>
-<br>
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=HDuong1803&theme=react-dark&hide_border=true">
-<p>
 
 <hr>
 <br>
