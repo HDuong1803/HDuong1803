@@ -38,7 +38,7 @@
       <td width="19.5%" align="center">
         <a>
 		<span>𝗛𝗧𝗠𝗟</span><br><br><br>
-	        <img height="px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+	        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 	 </a>
       </td>
       <td width="19.5%" align="center">
