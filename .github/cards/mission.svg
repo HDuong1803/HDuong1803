@@ -1,0 +1,109 @@
+<svg width="420" height="240" viewBox="0 0 420 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffe0c2">
+        <animate attributeName="stop-color"
+                 values="#ffe0c2; #393028; #2a2a2a; #ffe0c2"
+                 dur="10s"
+                 repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#2a2a2a">
+        <animate attributeName="stop-color"
+                 values="#2a2a2a; #ffe0c2; #393028; #2a2a2a"
+                 dur="10s"
+                 repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffe0c2"/>
+      <stop offset="100%" stop-color="#c8b49a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Border -->
+  <rect x="1.5" y="1.5" width="417" height="227" rx="20"
+        fill="none"
+        stroke="url(#borderGradient)"
+        stroke-width="2"/>
+
+  <!-- Background -->
+  <rect x="4" y="4" width="412" height="222" rx="18" fill="#111111" />
+
+  <!-- Title row -->
+  <g transform="translate(24,22)">
+    <!-- Icon -->
+    <circle cx="13" cy="13" r="8" fill="#111111" stroke="#ffe0c2" stroke-width="1.1"/>
+    <circle cx="13" cy="13" r="3" fill="#2a2a2a" stroke="#ffe0c2" stroke-width="0.9"/>
+    <line x1="13" y1="4" x2="13" y2="1.5" stroke="#ffe0c2" stroke-width="0.9" stroke-linecap="round"/>
+    <line x1="21" y1="13" x2="23.5" y2="13" stroke="#ffe0c2" stroke-width="0.9" stroke-linecap="round"/>
+    <line x1="13" y1="21" x2="13" y2="23.5" stroke="#ffe0c2" stroke-width="0.9" stroke-linecap="round"/>
+    <line x1="4" y1="13" x2="1.5" y2="13" stroke="#ffe0c2" stroke-width="0.9" stroke-linecap="round"/>
+    <path d="M13 9 L15.5 17 L13 15.8 L10.5 17 Z" fill="#ffe0c2" />
+
+    <!-- Title -->
+    <text x="30" y="20"
+          fill="url(#titleGradient)"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif"
+          font-size="20"
+          font-weight="600">
+      Mission
+    </text>
+  </g>
+
+  <!-- Subtitle -->
+  <text x="24" y="64"
+        fill="#b4b4b4"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
+        font-size="10.5"
+        font-style="italic">
+    I design and build end-to-end systems with a strong focus on clarity,
+    <tspan x="24" dy="13">scalability, and real-world business impact.</tspan>
+  </text>
+
+  <!-- Divider -->
+  <line x1="24" y1="92" x2="396" y2="92" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- Bullets -->
+  <text x="24" y="114"
+        fill="#b4b4b4"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
+        font-size="12">
+    • Software development: backend, frontend, and system integration
+  </text>
+
+  <text x="24" y="134"
+        fill="#b4b4b4"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
+        font-size="12">
+    • Backend architecture &amp; workflow-driven system design
+  </text>
+
+  <text x="24" y="154"
+        fill="#b4b4b4"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
+        font-size="12">
+    • API integration &amp; data-driven systems
+  </text>
+
+  <text x="24" y="174"
+        fill="#b4b4b4"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
+        font-size="12">
+    • Performance optimization &amp; system reliability
+  </text>
+
+  <text x="24" y="194"
+        fill="#b4b4b4"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
+        font-size="12">
+    • AI agents for business automation
+  </text>
+
+  <text x="24" y="214"
+        fill="#b4b4b4"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
+        font-size="12">
+    • Clean, maintainable code with clear abstractions
+  </text>
+</svg>

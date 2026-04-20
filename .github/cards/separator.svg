@@ -1,0 +1,88 @@
+<svg width="800" height="70" viewBox="0 0 800 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Animated gradient -->
+    <linearGradient id="sepGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffe0c2">
+        <animate attributeName="stop-color"
+                 values="#ffe0c2; #393028; #2a2a2a; #ffe0c2"
+                 dur="10s"
+                 repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#2a2a2a">
+        <animate attributeName="stop-color"
+                 values="#2a2a2a; #ffe0c2; #393028; #2a2a2a"
+                 dur="10s"
+                 repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Baseline -->
+  <line x1="40" y1="38" x2="760" y2="38"
+        stroke="#2a2a2a"
+        stroke-width="1.2"
+        stroke-linecap="round" />
+
+  <!-- Left Swirl -->
+  <g>
+    <path d="M 400 38
+             C 360 26 330 24 300 28
+               260 34 240 42 210 40
+               180 38 150 30 120 32
+               90 34 70 40 55 44"
+          fill="none"
+          stroke="url(#sepGradient)"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round" />
+
+    <path d="M 260 30 C 240 20 220 18 205 22"
+          fill="none" stroke="url(#sepGradient)" stroke-width="1.4" />
+
+    <path d="M 185 34 C 165 26 150 24 138 26"
+          fill="none" stroke="url(#sepGradient)" stroke-width="1.2" />
+
+    <circle cx="60" cy="42" r="3" fill="#ffe0c2" />
+    <circle cx="74" cy="36" r="2.3" fill="#ffe0c2" />
+    <circle cx="88" cy="40" r="1.8" fill="#ffe0c2" />
+    <circle cx="106" cy="34" r="1.6" fill="#ffe0c2" />
+  </g>
+
+  <!-- Right Swirl (mirror) -->
+  <g transform="scale(-1,1) translate(-800,0)">
+    <path d="M 400 38
+             C 360 26 330 24 300 28
+               260 34 240 42 210 40
+               180 38 150 30 120 32
+               90 34 70 40 55 44"
+          fill="none"
+          stroke="url(#sepGradient)"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round" />
+
+    <path d="M 260 30 C 240 20 220 18 205 22"
+          fill="none" stroke="url(#sepGradient)" stroke-width="1.4" />
+
+    <path d="M 185 34 C 165 26 150 24 138 26"
+          fill="none" stroke="url(#sepGradient)" stroke-width="1.2" />
+
+    <circle cx="60" cy="42" r="3" fill="#ffe0c2" />
+    <circle cx="74" cy="36" r="2.3" fill="#ffe0c2" />
+    <circle cx="88" cy="40" r="1.8" fill="#ffe0c2" />
+    <circle cx="106" cy="34" r="1.6" fill="#ffe0c2" />
+  </g>
+
+  <!-- Center Circle + Triangle -->
+  <g>
+    <!-- Outer ring -->
+    <circle cx="400" cy="38" r="12"
+            fill="#111111"
+            stroke="url(#sepGradient)"
+            stroke-width="2" />
+
+    <!-- Inner triangle (pointing down) -->
+    <path d="M 400 32 L 406 44 L 394 44 Z"
+          fill="#ffe0c2" />
+  </g>
+</svg>

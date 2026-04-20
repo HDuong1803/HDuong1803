@@ -1,0 +1,26 @@
+<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="quoteGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffe0c2"/>
+      <stop offset="100%" stop-color="#393028"/>
+    </linearGradient>
+  </defs>
+
+  <text x="50%" y="30"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+        font-size="20"
+        font-weight="600"
+        fill="url(#quoteGradient)"
+        text-anchor="middle">
+    Simple systems win. Secure systems endure.
+  </text>
+
+  <text x="50%" y="65"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+        font-size="20"
+        font-weight="600"
+        fill="url(#quoteGradient)"
+        text-anchor="middle">
+    Curious minds build better things.
+  </text>
+</svg>

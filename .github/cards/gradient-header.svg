@@ -1,0 +1,60 @@
+<svg width="800" height="110" viewBox="0 0 800 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Royal gradient -->
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffe0c2"/>
+      <stop offset="100%" stop-color="#393028"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background transparent for GitHub -->
+  <rect width="800" height="110" fill="transparent"/>
+
+  <!-- Left swirl -->
+  <path d="
+      M 180 55
+      C 150 45, 130 35, 115 35
+      C 95 36, 82 48, 75 55
+      C 68 62, 55 68, 40 67
+      "
+        fill="none"
+        stroke="url(#grad)"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <!-- Small decorative dots (left) -->
+  <circle cx="65" cy="60" r="3" fill="#ffe0c2"/>
+  <circle cx="90" cy="48" r="2" fill="#ffe0c2"/>
+  <circle cx="108" cy="40" r="1.8" fill="#ffe0c2"/>
+
+  <!-- Right swirl (mirror) -->
+  <g transform="scale(-1,1) translate(-800,0)">
+    <path d="
+        M 180 55
+        C 150 45, 130 35, 115 35
+        C 95 36, 82 48, 75 55
+        C 68 62, 55 68, 40 67
+        "
+          fill="none"
+          stroke="url(#grad)"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+
+    <circle cx="65" cy="60" r="3" fill="#ffe0c2"/>
+    <circle cx="90" cy="48" r="2" fill="#ffe0c2"/>
+    <circle cx="108" cy="40" r="1.8" fill="#ffe0c2"/>
+  </g>
+
+  <!-- Central text -->
+  <text x="50%" y="55%"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+        font-size="46"
+        font-weight="700"
+        fill="url(#grad)"
+        text-anchor="middle"
+        dominant-baseline="middle">
+    Hello world, I'm Hai Duong
+  </text>
+</svg>
